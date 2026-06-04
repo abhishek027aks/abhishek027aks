@@ -60,9 +60,13 @@ A platform for students to buy and sell:
 
 ## 📫 Connect With Me
 
-* LinkedIn
-* Instagram
-* GitHub
+## 📫 Connect With Me
+
+* 🔗 LinkedIn: https://www.linkedin.com/in/abhishek-kr-singh-7124a8200/
+* 📷 Instagram: https://www.instagram.com/er.abhishek_kumar_singh_2703
+* 💼 Jobs Info With AKS: https://www.instagram.com/jobsinfowithaks
+* 📢 WhatsApp Channel: https://whatsapp.com/channel/0029VbAfszk4o7qIjievWT2k
+* 🐙 GitHub: https://github.com/abhishek027aks
 
 ---
 
