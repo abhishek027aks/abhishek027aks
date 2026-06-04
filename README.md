@@ -1,38 +1,45 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
+# Hi 👋, I'm Abhishek Kumar Singh
 
-<h3 align="center">BCA Student | Web Developer | Tech Enthusiast</h3>
-
-<p align="center">
-🚀 Building Useful Projects & Learning New Technologies
-</p>
+### 🚀 BCA Student | Web Developer | Tech Enthusiast
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 * 🎓 BCA Student
-* 🌱 Currently Learning **PHP, MySQL, JavaScript**
-* 🚀 Working on **Campus Market**
+* 💻 Learning Web Development
+* 🌱 Currently Learning PHP, MySQL & JavaScript
+* 🚀 Building Campus Market
 * 📍 Mirzapur, Uttar Pradesh, India
-* ⚡ Fun Fact: I love coding and exploring new technologies.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-HTML | CSS | JavaScript | PHP | MySQL | Git | GitHub
-
----
-
-### 📌 Current Project
-
-#### Campus Market
-
-A platform for students to buy/sell books, notes, laptops and more.
+* HTML5
+* CSS3
+* JavaScript
+* PHP
+* MySQL
+* Git
+* GitHub
 
 ---
 
-### 📫 Connect With Me
+## 📚 Current Project
+
+### Campus Market
+
+A platform for students to buy and sell:
+
+* 📖 Books
+* 📝 Notes
+* 💻 Laptops
+* 📱 Mobiles
+
+---
+
+## 📫 Connect With Me
 
 * LinkedIn
 * Instagram
