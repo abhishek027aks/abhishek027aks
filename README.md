@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Abhishek Kumar Singh
 
-<!--
-**abhishek027aks/abhishek027aks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
 
-Here are some ideas to get you started:
+💻 Web Developer | Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Building:
+- Campus Market
+
+📚 Learning:
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+
+🌱 Building Useful Projects & Learning New Technologies
+
+📍 Mirzapur, Uttar Pradesh, India
+
+⚡ Fun Fact:
+I love coding and exploring new technologies.
+
+⭐ Code. Learn. Build. Repeat.
