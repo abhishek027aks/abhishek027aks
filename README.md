@@ -60,7 +60,6 @@ A platform for students to buy and sell:
 
 ## 📫 Connect With Me
 
-## 📫 Connect With Me
 
 * 🔗 LinkedIn: https://www.linkedin.com/in/abhishek-kr-singh-7124a8200/
 * 📷 Instagram: https://www.instagram.com/er.abhishek_kumar_singh_2703
