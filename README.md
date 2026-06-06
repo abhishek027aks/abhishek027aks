@@ -31,9 +31,9 @@
 # 📚 Education
 
 | Qualification | Stream |
-|-------------|--------|
+|--------------|---------|
 | 🎓 BCA | Bachelor of Computer Applications |
-| 🔌 Diploma| Electrical Engineering |
+| 🔌 Diploma | Electrical Engineering |
 | ⚡ ITI | Electrical Engineering |
 
 ---
@@ -64,27 +64,21 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek027aks&show_icons=true&theme=tokyonight&hide_border=true" />
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek027aks&show_icons=true&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek027aks&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek027aks&layout=compact&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=abhishek027aks&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=abhishek027aks&theme=tokyonight)
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhishek027aks&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-</p>
+![Trophy](https://github-profile-trophy.vercel.app/?username=abhishek027aks&theme=tokyonight)
 
 ---
 
