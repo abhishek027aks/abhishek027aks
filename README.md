@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 
 <h3 align="center">
-🚀 BCA Student | ITI (Electrical Engineering) | Diploma (Electrical Engineering) | Web Developer | Tech Enthusiast
+🚀 BCA Student | Diploma (Electrical Engineering) | ITI (Electrical Engineering) | Web Developer | Tech Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishek027aks&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abhishek027aks&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;BCA+Student;ITI+Electrical+Engineering;Diploma+Electrical+Engineering;Web+Developer;Tech+Enthusiast;Building+Campus+Market;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;BCA+Student;Web+Developer;Tech+Enthusiast;Building+Campus+Market;Always+Learning+New+Things" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 Currently Pursuing **Bachelor of Computer Applications (BCA)**
+- 🎓 Pursuing **Bachelor of Computer Applications (BCA)**
 - ⚡ Completed **ITI in Electrical Engineering**
 - 🔌 Completed **Diploma in Electrical Engineering**
 - 💻 Passionate About **Web Development**
@@ -24,7 +24,7 @@
 - 🚀 Building **Campus Market**
 - 📍 Mirzapur, Uttar Pradesh, India 🇮🇳
 - 🎯 Goal: Become a Professional Software Developer
-- ⚡ Fun Fact: I Love Coding, Technology & Creating Useful Projects
+- ⚡ Fun Fact: I Love Coding, Technology & Building Useful Projects
 
 ---
 
@@ -41,26 +41,21 @@
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" />
+
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek027aks&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Abhishek's GitHub Stats" width="450" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek027aks&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" width="400" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek027aks&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek027aks&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -68,7 +63,9 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhishek027aks&theme=tokyonight&cache_seconds=86400" alt="GitHub Streak" width="450" />
+
+<img src="https://streak-stats.demolab.com?user=abhishek027aks&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -76,7 +73,19 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishek027aks&theme=tokyonight" alt="Trophy" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhishek027aks&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek027aks&theme=tokyo-night"/>
+
 </p>
 
 ---
@@ -86,6 +95,7 @@
 ## 🎓 Campus Market
 
 A Complete Student Marketplace Platform Built Using:
+
 - PHP
 - MySQL
 - HTML5
@@ -93,6 +103,7 @@ A Complete Student Marketplace Platform Built Using:
 - JavaScript
 
 ### ✅ Features Implemented
+
 - Authentication System
 - Student Registration & Login
 - Dashboard
@@ -113,6 +124,7 @@ A Complete Student Marketplace Platform Built Using:
 - Responsive UI
 
 ### 📦 Marketplace Categories
+
 - 📚 Books
 - 📝 Notes
 - 💻 Laptops
@@ -122,6 +134,7 @@ A Complete Student Marketplace Platform Built Using:
 - 📄 PDF Notes
 
 ### 🔥 Upcoming Features
+
 - Ratings & Reviews
 - Comments System
 - Buyer ↔ Seller Chat
@@ -151,6 +164,10 @@ Chat System           ░░░░░░░░░░   0%
 Payment Gateway       ░░░░░░░░░░   0%
 
 Overall Progress      ████████░░  80%
+```
+
+---
+
 # 🌱 Currently Learning
 
 ```text
@@ -199,9 +216,13 @@ Full Stack Development
 ---
 
 <h3 align="center">
+
 ⭐ Code • Learn • Build • Repeat ⭐
+
 </h3>
 
 <h3 align="center">
+
 🚀 Thanks For Visiting My Profile 🚀
+
 </h3>
