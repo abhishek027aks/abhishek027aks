@@ -33,8 +33,8 @@
 | Qualification | Stream |
 |-------------|--------|
 | 🎓 BCA | Bachelor of Computer Applications |
+| 🔌 Diploma| Electrical Engineering |
 | ⚡ ITI | Electrical Engineering |
-| 🔌 Diploma | Electrical Engineering |
 
 ---
 
