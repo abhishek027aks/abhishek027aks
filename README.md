@@ -53,14 +53,14 @@
 
 ---
 
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek027aks&show_icons=true&theme=tokyonight" alt="Abhishek's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek027aks&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek027aks&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="Abhishek's GitHub Stats" width="450" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek027aks&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" width="400" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhishek027aks&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abhishek027aks&theme=tokyonight&cache_seconds=86400" alt="GitHub Streak" width="450" />
 </p>
 
 ---
@@ -76,7 +76,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishek027aks&theme=tokyonight" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishek027aks&theme=tokyonight" alt="Trophy" width="100%" />
 </p>
 
 ---
