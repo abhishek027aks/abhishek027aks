@@ -155,16 +155,24 @@ Uploads System        ██████████ 100%
 Search & Filter       ██████████ 100%
 Profile System        ██████████ 100%
 Verification System   ██████████ 100%
-Admin Panel           █████████░  90%
+Admin Panel           █████████░ 90%
 Wishlist              ██████████ 100%
 Views Counter         ██████████ 100%
-Ratings & Reviews     ░░░░░░░░░░   0%
-Comments              ░░░░░░░░░░   0%
-Chat System           ░░░░░░░░░░   0%
-Payment Gateway       ░░░░░░░░░░   0%
+Ratings & Reviews     ██████████ 100%
+Comments              ██████████ 100%
+Chat System           ██████████ 100%
+Notifications         ██████████ 100%
+Seller Analytics      ██████████ 100%
+QR Code               ██████████ 100%
 
-Overall Progress      ████████░░  80%
-```
+Payment Gateway       ░░░░░░░░░░ 0%
+Featured Products     ░░░░░░░░░░ 0%
+Lost & Found          ░░░░░░░░░░ 0%
+Notice Board          ░░░░░░░░░░ 0%
+AI Features           ░░░░░░░░░░ 0%
+Mobile App            ░░░░░░░░░░ 0%
+
+Overall Progress      █████████░ 88%
 
 ---
 
