@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 
-<h3 align="center">
+<h3 align="center"> 🇮🇳
 🚀 BCA Student | Diploma (Electrical Engineering) | ITI (Electrical Engineering) | Web Developer | Tech Enthusiast
 </h3>
 
